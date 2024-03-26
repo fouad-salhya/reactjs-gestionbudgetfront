@@ -1,0 +1,211 @@
+div.statistic-tasks {
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+
+
+}
+
+.statistic-tasks .card-tasks {
+    padding: 25px;
+}
+
+.statistic-tasks {
+
+    background: linear-gradient(45deg,#d82ed8,#d559e0);
+
+}
+
+h4.statistics-tasks {
+
+    font-size: 26px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span#span-statistics {
+     font-size: 30px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+div.statistic-cost-total {
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+
+
+}
+
+.statistic-cost-total .card-cost-total {
+    padding: 25px;
+}
+
+.statistic-cost-total {
+
+    background: linear-gradient(45deg,#2e4dd8,#6259e0);
+
+}
+
+h4.statistics-cost-total {
+
+    font-size: 26px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span#span-cost-total {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+div.statistic-friends {
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+
+}
+
+.statistic-friends .card-friends {
+    padding: 25px;
+}
+
+.statistic-friends {
+
+    background: linear-gradient(45deg,#2ed845,#74e059);
+
+}
+
+h4.statistics-friends {
+
+    font-size: 26px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span#span-friends {
+     font-size: 30px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+div.statistic-ranking {
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+
+.statistic-ranking .card-ranking {
+    padding: 25px;
+}
+
+.statistic-ranking {
+
+   
+    background: linear-gradient(45deg,white,whitesmoke);
+
+
+}
+
+h4.statistics-ranking {
+
+    font-size: 26px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span#span-ranking {
+     font-size: 30px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+/* div.statistic-tasks-moyen {
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+
+
+} */
+
+/* .statistic-tasks-moyen .card-tasks-moyen {
+    padding: 25px;
+}
+
+.statistic-tasks-moyen {
+
+    background: linear-gradient(45deg,#2eb0d8,#59e0d5);
+
+}
+
+h4.statistics-tasks-moyen {
+
+    font-size: 26px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} */
+
+div.chart-total-task-jour {
+     
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    background-color: white;
+    padding: 15px;
+
+}
+
+div.chart-total-cost-jour {
+     
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    background-color: white;
+    padding: 15px;
+    margin-right: 25px;
+
+}

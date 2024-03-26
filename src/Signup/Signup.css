@@ -1,0 +1,42 @@
+div.container {
+
+    margin-top: 70px;
+}
+
+div.signup {
+
+    border-radius: 5px;
+    -webkit-box-shadow: 3px 2px 3.94px 3.06px rgba(4,26,55,0.16);
+    box-shadow: 1px 2px 3.94px 1.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    padding: 10px;
+    background-color: white;
+    
+}
+
+label.label-signup {
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+div.error {
+ 
+    position: relative;
+    top: 5px;
+}
+
+h4.signup {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.redirect-signin {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

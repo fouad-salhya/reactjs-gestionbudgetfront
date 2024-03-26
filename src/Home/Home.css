@@ -1,0 +1,193 @@
+div.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div.dashbord {
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+
+
+}
+.dashbord .card-dashbord {
+    padding: 25px;
+}
+.bg-c-green {
+    background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+}
+
+h4.h4-salaire-account {
+   color: white;
+}
+h5.h5-amount {
+  color: white;
+}
+
+.bg-vert {
+    background: linear-gradient(45deg,#2ed883,#59e0c5);
+}
+
+.bg-bleu {
+    background: linear-gradient(45deg,#d82e2e,#e05959);
+}
+
+i#fa-smile-o{
+    color: white;  
+    font-size: 40px; 
+    /* margin-top: 10px;  */
+}
+
+span#span-salaire {
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+div.add-task {
+
+    margin-top: 20px;
+    margin-right: 22px;    
+}
+
+i#fa-pencil-task {
+    float: right;
+    cursor: pointer;
+    font-size: 27px;
+    color:orange
+}
+
+i#fa-trash-task-form {
+    float: right;
+    cursor: pointer;
+    font-size: 27px;
+    color: red;
+}
+
+
+
+div.form-add-task {
+    background-color: #fff;
+    width: 68%;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    margin-left: 35px;
+    height: 165px;
+}
+
+.form-add-task .form-task {
+
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 23px;
+}
+
+button.btn-add-task {
+    
+    margin-top: 10px;
+    color: white;
+    width: 30%;
+    position: relative;
+}
+
+.calendar-dashbord {
+
+    border: none;
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border-radius: 5px;
+    height: 298px;
+
+}
+
+div.form-flex-task {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+input[type="number"] {
+    width: 80%;
+    margin-left: 10px;
+}
+
+label#label-cost-task {
+    margin-left: 10px;
+}
+
+div.list-task-jour {
+    background-color: #fff;
+    border: none;
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border-radius: 5px;
+    width: 81%;
+    padding: 20px;
+}
+
+strong.list-task-jour {
+
+    text-transform: capitalize;
+    font-size: 17px;
+}
+
+h5.list-task-jour {
+    text-align: center;
+
+}
+
+ul.list-task-jour {
+    
+     list-style-type: decimal;
+     overflow-y: scroll;
+     scrollbar-width: thin;
+     height: 182px;
+     margin-top: 25px;
+}
+
+span.cost-list-task-jour {
+    float: right;
+    margin-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+i#list-task-jour {
+    cursor: pointer;
+    color: red;
+
+}
+
+div.calcul-total-cost {
+    position: relative;
+    text-align: center;
+    top: 25px;
+    left: 20px;
+}
+
+span.calcul-total-cost {
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h5.aucun-task-jour {
+
+  
+    font-family:cursive ;
+    font-size: 23px;
+    text-decoration:line-through;
+    color: darkslategrey;
+}
+
+
+div.aucun-task-jour {
+
+    margin-top: 70px;
+}
+

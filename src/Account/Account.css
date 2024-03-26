@@ -1,0 +1,67 @@
+div.card-account {
+    margin-top: 35px;
+    padding: 20px;
+    border-radius: 3px;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* div.amount {
+        margin-top: 35px;
+        text-align: center;
+        border-radius: 5px;
+        -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+        box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+        border: none;
+        margin-bottom: 30px;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    
+} */
+
+div.card-about-you {
+    margin-top: 35px;
+    padding: 20px;
+    border-radius: 3px;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+div.card-about-you .about-you {
+    padding: 0px;
+}
+
+h4.h4-about-you {
+    font-size: 20px;
+}
+
+button#btn-about-you {
+    width: 100px;
+    margin-top: 0px;
+}
+
+i#fa-pencil-account {
+    float: right;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+div.card-form-update {
+    margin-top: 35px;
+    padding: 20px;
+    border-radius: 3px;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+div.card-about-you .form-update {
+    padding: 10px;
+}
+button#btn-update-account {
+    margin-top: 23px;
+    height: 35px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+
